@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Metrics" max_length="40" name="x_409723_wellness_metrics" type="collection">
+        <element label="Athlete" max_length="32" name="athlete" reference="sys_user" type="reference"/>
+        <element function_definition="=703*weight/63" function_field="true" label="BMI" max_length="20" name="bmi" read_only="true" type="decimal"/>
+        <element label="Body Fat %" max_length="15" name="body_fat" type="percent_complete"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Weight" max_length="20" name="weight" type="decimal"/>
+        <index name="index">
+            <element name="athlete"/>
+        </index>
+    </element>
+</database>

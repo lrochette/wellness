@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 13:52:33</sys_created_on>
+        <sys_id>381ce674db101010a224f53a29961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_409723_wellness_drink.x_409723_wellness.drink_user</sys_name>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_security_acl display_value="x_409723_wellness_drink">b81ce674db101010a224f53a2996194f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_381ce674db101010a224f53a29961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 13:52:33</sys_updated_on>
+        <sys_user_role display_value="x_409723_wellness.drink_user" name="x_409723_wellness.drink_user">a81ce674db101010a224f53a2996191c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wellness">7f562a70db101010a224f53a29961977</application>
+        <file_path/>
+        <instance_id>177aaf7cdb7c77803050ac44d496196d</instance_id>
+        <instance_name>dev80375</instance_name>
+        <name>sys_security_acl_role_381ce674db101010a224f53a29961952</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-18 13:52:33</sys_created_on><sys_id>381ce674db101010a224f53a29961952</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_409723_wellness_drink.x_409723_wellness.drink_user</sys_name><sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package><sys_policy/><sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope><sys_security_acl display_value="x_409723_wellness_drink">b81ce674db101010a224f53a2996194f</sys_security_acl><sys_update_name>sys_security_acl_role_381ce674db101010a224f53a29961952</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-18 13:52:33</sys_updated_on><sys_user_role display_value="x_409723_wellness.drink_user" name="x_409723_wellness.drink_user">a81ce674db101010a224f53a2996191c</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>2112224633</payload_hash>
+        <record_name>x_409723_wellness_drink.x_409723_wellness.drink_user</record_name>
+        <reverted_from/>
+        <source>afd62670db101010a224f53a29961925</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 13:52:33</sys_created_on>
+        <sys_id>fc1ce674db101010a224f53a29961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1718d8ff40a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 13:52:33</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>381ce6749010101033ee60841f411c54</update_guid>
+        <update_guid_history>381ce6749010101033ee60841f411c54:2112224633</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_409723_wellness_drink.x_409723_wellness.drink_user">af075ffcdb501010a224f53a299619b8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-18 17:00:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2152637130254b13ba8c374280c25b31</sys_id>
+        <sys_metadata>381ce674db101010a224f53a29961952</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_409723_wellness_drink.x_409723_wellness.drink_user</sys_name>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_parent display_value="">b81ce674db101010a224f53a2996194f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_scope_delete display_value="">4c3c74d974d94d868089b84360426ee4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_381ce674db101010a224f53a29961952</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_381ce674db101010a224f53a29961952">fc1ce674db101010a224f53a29961954</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-18 17:00:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

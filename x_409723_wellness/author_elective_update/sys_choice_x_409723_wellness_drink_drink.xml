@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="drink" table="x_409723_wellness_drink" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Beer</label>
+            <language>en</language>
+            <name>x_409723_wellness_drink</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-18 13:53:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>135cea74db101010a224f53a2996197b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-18 17:26:09</sys_updated_on>
+            <value>beer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Whiskey</label>
+            <language>en</language>
+            <name>x_409723_wellness_drink</name>
+            <sequence>200</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-18 13:54:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a88c2e74db101010a224f53a2996196b</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-18 17:26:14</sys_updated_on>
+            <value>whiskey</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Digestif</label>
+            <language>en</language>
+            <name>x_409723_wellness_drink</name>
+            <sequence>300</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-18 13:54:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>597c2234db101010a224f53a29961905</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-18 17:26:26</sys_updated_on>
+            <value>digestif</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tequila</label>
+            <language>en</language>
+            <name>x_409723_wellness_drink</name>
+            <sequence>300</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-18 13:54:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>089c2e74db101010a224f53a2996196c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-18 17:26:22</sys_updated_on>
+            <value>tequila</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cocktail</label>
+            <language>en</language>
+            <name>x_409723_wellness_drink</name>
+            <sequence>500</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-18 13:54:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b36c6af0db101010a224f53a2996195d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-18 17:26:31</sys_updated_on>
+            <value>cocktail</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Champagne</label>
+            <language>en</language>
+            <name>x_409723_wellness_drink</name>
+            <sequence>600</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-18 13:54:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e66ce2f0db101010a224f53a2996194d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-18 17:26:34</sys_updated_on>
+            <value>champagne</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gin</label>
+            <language>en</language>
+            <name>x_409723_wellness_drink</name>
+            <sequence>700</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-18 13:54:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd9c2a34db101010a224f53a29961949</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-18 17:26:37</sys_updated_on>
+            <value>gin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vodka</label>
+            <language>en</language>
+            <name>x_409723_wellness_drink</name>
+            <sequence>800</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-18 13:54:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>628c2a34db101010a224f53a29961949</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-18 17:26:40</sys_updated_on>
+            <value>vodka</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>drink</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wine</label>
+            <language>en</language>
+            <name>x_409723_wellness_drink</name>
+            <sequence>900</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-18 13:54:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e16ce274db101010a224f53a299619b3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-18 17:26:44</sys_updated_on>
+            <value>wine</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>drink</element>
+            <name>x_409723_wellness_drink</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-18 13:53:57</sys_created_on>
+            <sys_id>516ce674db101010a224f53a299619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>drink</sys_name>
+            <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+            <sys_update_name>sys_choice_x_409723_wellness_drink_drink</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-18 13:53:57</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

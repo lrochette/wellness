@@ -2,7 +2,7 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>false</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
@@ -25,12 +25,12 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-18 13:27:38</sys_created_on>
         <sys_id>7f562a70db101010a224f53a29961977</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-18 13:27:38</sys_updated_on>
+        <sys_updated_on>2020-04-18 17:05:37</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role/>
+        <user_role display_value="x_409723_wellness.user" name="x_409723_wellness.user">50a9eef0db101010a224f53a29961925</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
