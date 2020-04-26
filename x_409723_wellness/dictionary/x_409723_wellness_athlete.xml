@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Athlete" max_length="40" name="x_409723_wellness_athlete" type="collection">
+        <element label="Date Of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element label="Height" max_length="2" name="height" type="integer"/>
+        <element label="user" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
