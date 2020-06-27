@@ -10,8 +10,8 @@
             <plural>Athletes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-26 16:48:05</sys_created_on>
-            <sys_id>82f02ca3db101010a224f53a29961957</sys_id>
+            <sys_created_on>2020-06-27 21:26:07</sys_created_on>
+            <sys_id>c72330e7dbe11010a224f53a29961983</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Athlete</sys_name>
             <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
@@ -19,7 +19,7 @@
             <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
             <sys_update_name>sys_documentation_x_409723_wellness_athlete__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-26 16:48:05</sys_updated_on>
+            <sys_updated_on>2020-06-27 21:26:07</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

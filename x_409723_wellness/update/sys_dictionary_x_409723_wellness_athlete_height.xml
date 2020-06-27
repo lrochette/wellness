@@ -32,9 +32,9 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Integer">integer</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>2</max_length>
+        <max_length>3</max_length>
         <name>x_409723_wellness_athlete</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-04-26 16:48:04</sys_created_on>
-        <sys_id>ea80e4a3db101010a224f53a299619ca</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_created_on>2020-06-27 21:26:06</sys_created_on>
+        <sys_id>acf274a3db211010a224f53a299619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Height</sys_name>
         <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
         <sys_update_name>sys_dictionary_x_409723_wellness_athlete_height</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-26 16:49:55</sys_updated_on>
+        <sys_updated_on>2020-06-27 21:26:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

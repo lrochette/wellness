@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Wellness">8a1d26b4db101010a224f53a29961920</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Athletes</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_409723_wellness_athlete</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_409723_wellness.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-26 16:48:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71f02ca3db101010a224f53a2996191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Athletes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_update_name>sys_app_module_71f02ca3db101010a224f53a2996191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-26 16:48:04</sys_updated_on>
+        <timeline_page/>
+        <title>Athletes</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wellness">7f562a70db101010a224f53a29961977</application>
+        <file_path/>
+        <instance_id>177aaf7cdb7c77803050ac44d496196d</instance_id>
+        <instance_name>dev80375</instance_name>
+        <name>sys_app_module_71f02ca3db101010a224f53a2996191a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Wellness">8a1d26b4db101010a224f53a29961920</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Athletes</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_409723_wellness_athlete</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_409723_wellness.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-26 16:48:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>71f02ca3db101010a224f53a2996191a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Athletes</sys_name><sys_overrides/><sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package><sys_policy/><sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope><sys_update_name>sys_app_module_71f02ca3db101010a224f53a2996191a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-26 16:48:04</sys_updated_on><timeline_page/><title>Athletes</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-738010557</payload_hash>
+        <record_name>Athletes</record_name>
+        <reverted_from/>
+        <source>afd62670db101010a224f53a29961925</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-26 16:48:04</sys_created_on>
+        <sys_id>f1f02ca3db101010a224f53a2996191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171b76384cf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-26 16:48:04</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3df02ca30c10101033da2b3790a3421c</update_guid>
+        <update_guid_history>3df02ca30c10101033da2b3790a3421c:-738010557</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Athletes">b8b2b8a7dbe11010a224f53a29961908</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-27 21:24:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3dd67e4f1fc246e89206023df67d0be4</sys_id>
+        <sys_metadata>71f02ca3db101010a224f53a2996191a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Athletes</sys_name>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_scope_delete display_value="">4c3c74d974d94d868089b84360426ee4</sys_scope_delete>
+        <sys_update_name>sys_app_module_71f02ca3db101010a224f53a2996191a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_71f02ca3db101010a224f53a2996191a">f1f02ca3db101010a224f53a2996191d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-27 21:24:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

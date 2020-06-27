@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_409723_wellness_athlete" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date_of_birth</element>
+            <list_id display_value="x_409723_wellness_athlete" element="NULL" name="x_409723_wellness_athlete" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b49efd60db201010a224f53a2996197b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-30 02:10:58</sys_created_on>
+            <sys_id>349e7124db201010a224f53a299619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-30 02:10:58</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>height</element>
+            <list_id display_value="x_409723_wellness_athlete" element="NULL" name="x_409723_wellness_athlete" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b49efd60db201010a224f53a2996197b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-30 02:10:58</sys_created_on>
+            <sys_id>3c9e7124db201010a224f53a299619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-30 02:10:58</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="x_409723_wellness_athlete" element="NULL" name="x_409723_wellness_athlete" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b49efd60db201010a224f53a2996197b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-30 02:10:58</sys_created_on>
+            <sys_id>bc9e7124db201010a224f53a299619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-30 02:10:58</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_409723_wellness_athlete</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-30 02:10:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b49efd60db201010a224f53a2996197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_409723_wellness_athlete</sys_name>
+            <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+            <sys_update_name>sys_ui_list_x_409723_wellness_athlete_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-30 02:10:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wellness">7f562a70db101010a224f53a29961977</application>
+        <file_path/>
+        <instance_id>177aaf7cdb7c77803050ac44d496196d</instance_id>
+        <instance_name>dev80375</instance_name>
+        <name>sys_ui_list_x_409723_wellness_athlete_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_409723_wellness_athlete" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>date_of_birth</element><list_id display_value="x_409723_wellness_athlete" element="NULL" name="x_409723_wellness_athlete" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b49efd60db201010a224f53a2996197b</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-30 02:10:58</sys_created_on><sys_id>349e7124db201010a224f53a299619d6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-30 02:10:58</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>height</element><list_id display_value="x_409723_wellness_athlete" element="NULL" name="x_409723_wellness_athlete" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b49efd60db201010a224f53a2996197b</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-30 02:10:58</sys_created_on><sys_id>3c9e7124db201010a224f53a299619d6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-30 02:10:58</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>user</element><list_id display_value="x_409723_wellness_athlete" element="NULL" name="x_409723_wellness_athlete" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b49efd60db201010a224f53a2996197b</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-30 02:10:58</sys_created_on><sys_id>bc9e7124db201010a224f53a299619d6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-30 02:10:58</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_409723_wellness_athlete</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-30 02:10:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b49efd60db201010a224f53a2996197b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_409723_wellness_athlete</sys_name><sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package><sys_policy/><sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope><sys_update_name>sys_ui_list_x_409723_wellness_athlete_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-30 02:10:58</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1411611276</payload_hash>
+        <record_name>Athlete</record_name>
+        <reverted_from/>
+        <source>afd62670db101010a224f53a29961925</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-30 02:10:58</sys_created_on>
+        <sys_id>389e7124db201010a224f53a299619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c8d9f2b40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 02:10:58</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>f49e7124bb20101079fc4aa3d6ecd8d8</update_guid>
+        <update_guid_history>f49e7124bb20101079fc4aa3d6ecd8d8:1411611276</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-27 21:24:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>661f09503dc543d0ae8fdd58685b9900</sys_id>
+        <sys_metadata>b49efd60db201010a224f53a2996197b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_409723_wellness_athlete</sys_name>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_parent display_value="">ed6064a3db101010a224f53a299619f9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_scope_delete display_value="">4c3c74d974d94d868089b84360426ee4</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_409723_wellness_athlete_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_409723_wellness_athlete_null">389e7124db201010a224f53a299619d8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-27 21:24:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

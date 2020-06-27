@@ -10,8 +10,8 @@
             <plural>BMIs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-20 00:23:28</sys_created_on>
-            <sys_id>a4164691db905010a224f53a29961985</sys_id>
+            <sys_created_on>2020-04-30 02:03:41</sys_created_on>
+            <sys_id>46ecfda0db201010a224f53a29961979</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>BMI</sys_name>
             <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
@@ -19,7 +19,7 @@
             <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
             <sys_update_name>sys_documentation_x_409723_wellness_metrics_bmi_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-20 00:23:28</sys_updated_on>
+            <sys_updated_on>2020-04-30 02:03:41</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

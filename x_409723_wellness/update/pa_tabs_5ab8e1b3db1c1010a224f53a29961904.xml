@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Wellness">5eb8a1b3db1c1010a224f53a299619fe</canvas_page>
+        <name>Wellness</name>
+        <page display_value="PA Wellness">56b8a1b3db1c1010a224f53a299619f4</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 16:40:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5ab8e1b3db1c1010a224f53a29961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wellness</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_update_name>pa_tabs_5ab8e1b3db1c1010a224f53a29961904</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 16:40:04</sys_updated_on>
+    </pa_tabs>
+</record_update>

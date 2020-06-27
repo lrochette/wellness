@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Drink" max_length="40" name="x_409723_wellness_drink" sizeclass="2" type="collection">
-        <element label="Athlete" max_length="32" name="athlete" reference="sys_user" type="reference"/>
+    <element label="Drink" max_length="40" name="x_409723_wellness_drink" sizeclass="38" type="collection">
+        <element label="Athlete" max_length="32" name="athlete" reference="x_409723_wellness_athlete" type="reference"/>
         <element label="Date" max_length="40" name="date" type="glide_date"/>
         <element choice="1" label="Drink" max_length="40" name="drink" type="choice">
             <choice>
