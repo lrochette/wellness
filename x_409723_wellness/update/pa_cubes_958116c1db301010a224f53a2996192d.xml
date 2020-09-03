@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_cubes">
     <pa_cubes action="INSERT_OR_UPDATE">
         <benchmarking>false</benchmarking>
-        <conditions/>
+        <conditions table="x_409723_wellness_metrics">dateONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()<item endquery="false" field="date" goto="false" newquery="false" operator="ON" or="false" value="Today@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()"/>
+        </conditions>
         <description>Regular weight</description>
         <facts_table>x_409723_wellness_metrics</facts_table>
         <facts_table_pk/>
@@ -17,7 +18,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>958116c1db301010a224f53a2996192d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Wellness Metrics</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
@@ -25,7 +26,7 @@
         <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
         <sys_update_name>pa_cubes_958116c1db301010a224f53a2996192d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-14 03:09:04</sys_updated_on>
+        <sys_updated_on>2020-09-03 00:11:26</sys_updated_on>
     </pa_cubes>
     <sys_translated_text action="delete_multiple" query="documentkey=958116c1db301010a224f53a2996192d"/>
 </record_update>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-        <grid_canvas display_value="PA Drinks">ed8ef887db201010a224f53a299619c2</grid_canvas>
+        <grid_canvas display_value="PA New Tab">654ec285db031010a224f53a2996193b</grid_canvas>
         <height>10</height>
-        <portal_widget display_value="Created 2020-05-13 22:15:37">cca31245db301010a224f53a299619ff</portal_widget>
+        <portal_widget display_value="Created 2020-09-02 18:14:13">407e8285db031010a224f53a29961976</portal_widget>
         <posx>0</posx>
-        <posy>10</posy>
+        <posy>0</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-05-14 03:15:37</sys_created_on>
-        <sys_id>58a35245db301010a224f53a29961905</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>ed8ef887db201010a224f53a299619c2</sys_name>
+        <sys_created_on>2020-09-02 23:14:13</sys_created_on>
+        <sys_id>487e8285db031010a224f53a2996197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>654ec285db031010a224f53a2996193b</sys_name>
         <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
-        <sys_update_name>sys_grid_canvas_pane_58a35245db301010a224f53a29961905</sys_update_name>
+        <sys_update_name>sys_grid_canvas_pane_487e8285db031010a224f53a2996197a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-09-02 23:06:20</sys_updated_on>
+        <sys_updated_on>2020-09-02 23:14:13</sys_updated_on>
         <width>12</width>
     </sys_grid_canvas_pane>
 </record_update>

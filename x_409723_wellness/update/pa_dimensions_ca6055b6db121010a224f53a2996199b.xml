@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dimensions">
+    <pa_dimensions action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <empty_value/>
+        <facts_table>x_409723_wellness_metrics</facts_table>
+        <field>athlete</field>
+        <manual_breakdown/>
+        <name>Athlete</name>
+        <security_type>1</security_type>
+        <sys_class_name>pa_dimensions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-01 22:26:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ca6055b6db121010a224f53a2996199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Athlete</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_update_name>pa_dimensions_ca6055b6db121010a224f53a2996199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-01 22:26:09</sys_updated_on>
+    </pa_dimensions>
+    <sys_translated_text action="delete_multiple" query="documentkey=ca6055b6db121010a224f53a2996199b"/>
+</record_update>

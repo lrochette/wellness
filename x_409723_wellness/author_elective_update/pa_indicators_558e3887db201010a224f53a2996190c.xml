@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicators">
+    <pa_indicators action="DELETE">
+        <aggregate>2</aggregate>
+        <allow_multi_element_aggregation>false</allow_multi_element_aggregation>
+        <benchmarking>false</benchmarking>
+        <collect_breakdown_matrix>false</collect_breakdown_matrix>
+        <collect_records>true</collect_records>
+        <conditions/>
+        <contributor/>
+        <cube display_value="Drinks">d208e973db1c1010a224f53a2996192e</cube>
+        <data_source/>
+        <default_aggregate/>
+        <default_chart_type>line</default_chart_type>
+        <description>Drink per week is measured daily as unit #.
+The goal for this indicator is not set.
+It is the count on data source Drinks, which is using the table: 
+x_409723_wellness_drink
+with the following conditions:
+
+Additional conditions:
+Athlete is System Administrator</description>
+        <direction>1</direction>
+        <display>false</display>
+        <excluded_statistics/>
+        <field>number</field>
+        <forecast_base_periods>2</forecast_base_periods>
+        <forecast_base_start>00000000</forecast_base_start>
+        <forecast_base_type>1</forecast_base_type>
+        <forecast_lower_limit/>
+        <forecast_method>1</forecast_method>
+        <forecast_periods>2</forecast_periods>
+        <forecast_upper_limit/>
+        <formula/>
+        <formula_aggregate_whole>false</formula_aggregate_whole>
+        <formula_allow_null>false</formula_allow_null>
+        <frequency>10</frequency>
+        <groups/>
+        <has_managed_indicators>false</has_managed_indicators>
+        <id>116</id>
+        <key>false</key>
+        <label/>
+        <linked_indicator/>
+        <live_group_profile/>
+        <managed_breakdown/>
+        <managed_element/>
+        <managing_indicator/>
+        <name>Drink per week</name>
+        <order/>
+        <override_periods>false</override_periods>
+        <precision>0</precision>
+        <related_breakdowns>0</related_breakdowns>
+        <related_jobs>1</related_jobs>
+        <render_continuous_lines>false</render_continuous_lines>
+        <role_override>true</role_override>
+        <roles/>
+        <score_periods>-1</score_periods>
+        <scores_modified_at>2020-08-01 22:06:44</scores_modified_at>
+        <script/>
+        <scripted>false</scripted>
+        <show_delta>true</show_delta>
+        <show_realtime_score>false</show_realtime_score>
+        <snapshot_periods>-1</snapshot_periods>
+        <sql_statement/>
+        <sys_class_name>pa_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-07 15:55:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>558e3887db201010a224f53a2996190c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Drink per week</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_update_name>pa_indicators_558e3887db201010a224f53a2996190c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-01 22:07:55</sys_updated_on>
+        <type>1</type>
+        <unit display_value="#">17b365e2d7320100ba986f14ce6103ad</unit>
+        <users/>
+        <value_when_nil>0</value_when_nil>
+        <visible_to>2</visible_to>
+    </pa_indicators>
+    <sys_translated_text action="DELETE" query="documentkey=558e3887db201010a224f53a2996190c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wellness">7f562a70db101010a224f53a29961977</application>
+        <file_path/>
+        <instance_id>177aaf7cdb7c77803050ac44d496196d</instance_id>
+        <instance_name>dev80375</instance_name>
+        <name>pa_indicators_558e3887db201010a224f53a2996190c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicators"><pa_indicators action="INSERT_OR_UPDATE"><aggregate>2</aggregate><allow_multi_element_aggregation>false</allow_multi_element_aggregation><benchmarking>false</benchmarking><collect_breakdown_matrix>false</collect_breakdown_matrix><collect_records>true</collect_records><conditions/><contributor/><cube display_value="Drinks">d208e973db1c1010a224f53a2996192e</cube><data_source/><default_aggregate/><default_chart_type>line</default_chart_type><description>Drink per week is measured daily as unit #.
+The goal for this indicator is not set.
+It is the count on data source Drinks, which is using the table: 
+x_409723_wellness_drink
+with the following conditions:
+
+Additional conditions:
+Athlete is System Administrator</description><direction>1</direction><display>false</display><excluded_statistics/><field>number</field><forecast_base_periods>2</forecast_base_periods><forecast_base_start>00000000</forecast_base_start><forecast_base_type>1</forecast_base_type><forecast_lower_limit/><forecast_method>1</forecast_method><forecast_periods>2</forecast_periods><forecast_upper_limit/><formula/><formula_aggregate_whole>false</formula_aggregate_whole><formula_allow_null>false</formula_allow_null><frequency>10</frequency><groups/><has_managed_indicators>false</has_managed_indicators><id>116</id><key>false</key><label/><linked_indicator/><live_group_profile/><managed_breakdown/><managed_element/><managing_indicator/><name>Drink per week</name><order/><override_periods>false</override_periods><precision>0</precision><related_breakdowns>0</related_breakdowns><related_jobs>1</related_jobs><render_continuous_lines>false</render_continuous_lines><role_override>true</role_override><roles/><score_periods>-1</score_periods><scores_modified_at>2020-08-01 22:06:44</scores_modified_at><script/><scripted>false</scripted><show_delta>true</show_delta><show_realtime_score>false</show_realtime_score><snapshot_periods>-1</snapshot_periods><sql_statement/><sys_class_name>pa_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-07 15:55:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>558e3887db201010a224f53a2996190c</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Drink per week</sys_name><sys_overrides/><sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package><sys_policy/><sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope><sys_update_name>pa_indicators_558e3887db201010a224f53a2996190c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-01 22:07:55</sys_updated_on><type>1</type><unit display_value="#">17b365e2d7320100ba986f14ce6103ad</unit><users/><value_when_nil>0</value_when_nil><visible_to>2</visible_to></pa_indicators><sys_translated_text action="delete_multiple" query="documentkey=558e3887db201010a224f53a2996190c"/></record_update>]]></payload>
+        <payload_hash>-11999543</payload_hash>
+        <record_name>Drink per week</record_name>
+        <reverted_from/>
+        <source>afd62670db101010a224f53a29961925</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-01 22:07:55</sys_created_on>
+        <sys_id>096c81f2db121010a224f53a29961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173ac1135aa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-01 22:07:55</sys_updated_on>
+        <type>Indicator</type>
+        <update_guid>816c81f2f612101070b2f8a891308530</update_guid>
+        <update_guid_history>816c81f2f612101070b2f8a891308530:-11999543,bbc49a452c301010a93bb975cd5645f2:-1659597389,dc5dcdcf45201010afa1dd2927afaa3c:-1917937144,8ef90d4fb120101044ccd386bc77c8d5:547994949,6d8ef887fe2010105b5d01d55d04ccd3:-56765381,998ef887f1201010642a41aeaee58da0:-1036990200,158ef8878b201010de7a9b47eca25f9f:-1830587364,1d8ef887512010103cc5f9af3d547e9d:-1324114837</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Drink per week">bfb69a0ddb031010a224f53a299619ae</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 23:50:31</sys_created_on>
+        <sys_db_object display_value="" name="pa_indicators">pa_indicators</sys_db_object>
+        <sys_id>13fa3554c9344fc4a1d8257b382563e4</sys_id>
+        <sys_metadata>558e3887db201010a224f53a2996190c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Drink per week</sys_name>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_scope_delete display_value="">4c3c74d974d94d868089b84360426ee4</sys_scope_delete>
+        <sys_update_name>pa_indicators_558e3887db201010a224f53a2996190c</sys_update_name>
+        <sys_update_version display_value="pa_indicators_558e3887db201010a224f53a2996190c">096c81f2db121010a224f53a29961930</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 23:50:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

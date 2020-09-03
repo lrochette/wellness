@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns">
+    <pa_indicator_breakdowns action="DELETE">
+        <breakdown display_value="Athlete">514091b6db121010a224f53a299619e4</breakdown>
+        <display>true</display>
+        <indicator display_value="Wellness Weight">d5b21a05db301010a224f53a2996197d</indicator>
+        <order/>
+        <sql_statement/>
+        <sys_class_name>pa_indicator_breakdowns</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 23:00:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e73b0a05db031010a224f53a29961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Athlete.Wellness Weight</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_update_name>pa_indicator_breakdowns_e73b0a05db031010a224f53a29961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 23:00:16</sys_updated_on>
+    </pa_indicator_breakdowns>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wellness">7f562a70db101010a224f53a29961977</application>
+        <file_path/>
+        <instance_id>177aaf7cdb7c77803050ac44d496196d</instance_id>
+        <instance_name>dev80375</instance_name>
+        <name>pa_indicator_breakdowns_e73b0a05db031010a224f53a29961959</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_indicator_breakdowns"><pa_indicator_breakdowns action="INSERT_OR_UPDATE"><breakdown display_value="Athlete">514091b6db121010a224f53a299619e4</breakdown><display>true</display><indicator display_value="Wellness Weight">d5b21a05db301010a224f53a2996197d</indicator><order/><sql_statement/><sys_class_name>pa_indicator_breakdowns</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-02 23:00:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e73b0a05db031010a224f53a29961959</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Athlete.Wellness Weight</sys_name><sys_overrides/><sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package><sys_policy/><sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope><sys_update_name>pa_indicator_breakdowns_e73b0a05db031010a224f53a29961959</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-02 23:00:16</sys_updated_on></pa_indicator_breakdowns></record_update>]]></payload>
+        <payload_hash>156419134</payload_hash>
+        <record_name>d5b21a05db301010a224f53a2996197d</record_name>
+        <reverted_from/>
+        <source>afd62670db101010a224f53a29961925</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 23:00:16</sys_created_on>
+        <sys_id>7f3b0a05db031010a224f53a29961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174510ca39a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 23:00:16</sys_updated_on>
+        <type>Indicator Breakdown</type>
+        <update_guid>b73b0a05ed031010ad70c966ffb1f161</update_guid>
+        <update_guid_history>b73b0a05ed031010ad70c966ffb1f161:156419134</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Weight">1ad6da0ddb031010a224f53a299619f7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 23:50:58</sys_created_on>
+        <sys_db_object display_value="" name="pa_indicator_breakdowns">pa_indicator_breakdowns</sys_db_object>
+        <sys_id>dd09824cbb4a4810b8f1faef8ccef1e9</sys_id>
+        <sys_metadata>e73b0a05db031010a224f53a29961959</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Athlete.Wellness Weight</sys_name>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_parent display_value="Weight">d5b21a05db301010a224f53a2996197d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_scope_delete display_value="">4c3c74d974d94d868089b84360426ee4</sys_scope_delete>
+        <sys_update_name>pa_indicator_breakdowns_e73b0a05db031010a224f53a29961959</sys_update_name>
+        <sys_update_version display_value="pa_indicator_breakdowns_e73b0a05db031010a224f53a29961959">7f3b0a05db031010a224f53a29961961</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 23:50:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

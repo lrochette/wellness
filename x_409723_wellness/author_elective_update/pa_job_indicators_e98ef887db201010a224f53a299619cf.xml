@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>temporary job for collecting Drink per week - Drink per week</display>
+        <indicator display_value="Drink per week">558e3887db201010a224f53a2996190c</indicator>
+        <job display_value="temporary job for collecting Drink per week">e58eb487db201010a224f53a29961912</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-07 15:55:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e98ef887db201010a224f53a299619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Drink per week.temporary job for collecting Drink per week</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_update_name>pa_job_indicators_e98ef887db201010a224f53a299619cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-07 15:55:57</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wellness">7f562a70db101010a224f53a29961977</application>
+        <file_path/>
+        <instance_id>177aaf7cdb7c77803050ac44d496196d</instance_id>
+        <instance_name>dev80375</instance_name>
+        <name>pa_job_indicators_e98ef887db201010a224f53a299619cf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>1</collect><collect_indicator>true</collect_indicator><display>temporary job for collecting Drink per week - Drink per week</display><indicator display_value="Drink per week">558e3887db201010a224f53a2996190c</indicator><job display_value="temporary job for collecting Drink per week">e58eb487db201010a224f53a29961912</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-07 15:55:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e98ef887db201010a224f53a299619cf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Drink per week.temporary job for collecting Drink per week</sys_name><sys_overrides/><sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package><sys_policy/><sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope><sys_update_name>pa_job_indicators_e98ef887db201010a224f53a299619cf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-07 15:55:57</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>-369841191</payload_hash>
+        <record_name>temporary job for collecting Drink per week - Drink per week</record_name>
+        <reverted_from/>
+        <source>afd62670db101010a224f53a29961925</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-07 15:55:57</sys_created_on>
+        <sys_id>e58ef887db201010a224f53a299619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171efd9c02b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-07 15:55:57</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>218ef887692010108b139a927b70b2d5</update_guid>
+        <update_guid_history>218ef887692010108b139a927b70b2d5:-369841191</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="temporary job for collecting Drink per week - ">afb69a0ddb031010a224f53a29961964</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-02 23:50:30</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>5cf281b56551490c813737bbc7004604</sys_id>
+        <sys_metadata>e98ef887db201010a224f53a299619cf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Drink per week.temporary job for collecting Drink per week</sys_name>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_parent display_value="temporary job for collecting Drink per week">e58eb487db201010a224f53a29961912</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_scope_delete display_value="">4c3c74d974d94d868089b84360426ee4</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_e98ef887db201010a224f53a299619cf</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_e98ef887db201010a224f53a299619cf">e58ef887db201010a224f53a299619d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-02 23:50:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

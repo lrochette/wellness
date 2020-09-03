@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_targets">
+    <pa_targets action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <aggregate display_value="7d running AVG">9ef05051d7001100ba986f14ce610372</aggregate>
+        <any_element>false</any_element>
+        <breakdown/>
+        <breakdown_level2/>
+        <color_scheme/>
+        <element/>
+        <element_level2/>
+        <indicator display_value="Weight">d5b21a05db301010a224f53a2996197d</indicator>
+        <owner display_value="Laurent Rochette">5484702bdbe11010a224f53a299619a8</owner>
+        <sys_class_name>pa_targets</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-03 00:01:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3529d68ddb031010a224f53a299619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d5b21a05db301010a224f53a2996197d</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wellness" source="x_409723_wellness">7f562a70db101010a224f53a29961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wellness">7f562a70db101010a224f53a29961977</sys_scope>
+        <sys_update_name>pa_targets_3529d68ddb031010a224f53a299619e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-03 00:01:38</sys_updated_on>
+        <values_modified_at/>
+    </pa_targets>
+</record_update>
